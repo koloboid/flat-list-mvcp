@@ -127,6 +127,6 @@ public class MvcpScrollViewManagerModule extends ReactContextBaseJavaModule {
           promise.resolve(-1);
         }
       }
-    }
+    });
   }
 }
